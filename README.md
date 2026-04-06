@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kao (Chananchai Chanmol)</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;At+Chulalongkorn+University&center=true&width=500&height=45">
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;At+Chulalongkorn+University&center=true&width=500&height=45&color=DE5C8E&speed=100">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keyboardban&label=Profile%20views&color=0e75b6&style=flat" alt="keyboardban" /> </p>
