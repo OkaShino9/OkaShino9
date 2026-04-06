@@ -17,7 +17,7 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,swift,js,html,css,sql" />
 <br>
-<img src="https://skillicons.dev/icons?i=docker,linux,databricks,git,slurm,figma" />
+<img src="https://skillicons.dev/icons?i=docker,linux,git,figma" />
 </p>
 
 ---
