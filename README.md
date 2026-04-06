@@ -1,7 +1,7 @@
 <h1 align="center">Kao (Chananchai Chanmol)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+in+progress;Hackathon+Competitor;Deep+Learning+Builder;Turning+Ideas+into+Reality&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student+At+Chulalongkorn+University&center=true&width=500&height=45">
 </p>
 
 ---
@@ -17,7 +17,7 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,java,swift,js,html,css,sql" />
 <br>
-<img src="https://skillicons.dev/icons?i=pytorch,docker,linux,github,figma" />
+<img src="https://skillicons.dev/icons?i=pytorch,docker,linux,databricks,github,figma" />
 </p>
 
 ---
