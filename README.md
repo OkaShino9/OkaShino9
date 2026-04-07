@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00b441&height=200&section=header&text=Hi%20%👋,%20I'm%20Kao%20(Chananchai%20Chanmol)&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=03BFB5&height=200&section=header&text=Hi%20%👋,%20I'm%20Kao%20(Chananchai%20Chanmol)&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
 </p>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;At+Chulalongkorn+University&center=true&width=500&height=45&color=00b441&speed=100">
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;At+Chulalongkorn+University&center=true&width=500&height=45&color=03BFB5&speed=100">
 </p>
 
 <p align="center">
@@ -65,7 +65,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OkaShino9&theme=dark&hide_border=true&background=262626&ring=00b441&fire=00b441&currStreakLabel=00b441" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OkaShino9&theme=dark&hide_border=true&background=262626&ring=03BFB5&fire=03BFB5&currStreakLabel=03BFB5" height="180"/>
 </p>
 
 ---
@@ -73,7 +73,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OkaShino9&bg_color=262626&color=ffffff&line=00b441&point=aaaaaa&area=false&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OkaShino9&bg_color=262626&color=ffffff&line=03BFB5&point=aaaaaa&area=false&hide_border=true"/>
 </p>
 
 ---
