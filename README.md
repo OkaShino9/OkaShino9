@@ -1,4 +1,4 @@
-Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Kao (Chananchai Chanmol)
+<h1 align="center"> Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Kao (Chananchai Chanmol) </h1>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;At+Chulalongkorn+University&center=true&width=500&height=45&color=DE5C8E&speed=100">
 </p>
