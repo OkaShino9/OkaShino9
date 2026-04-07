@@ -5,7 +5,7 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;At+Chulalongkorn+University&center=true&width=500&height=45&color=00b441&speed=100">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=keyboardban&label=Profile%20views&color=0e75b6&style=flat" alt="keyboardban" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OkaShino9&label=Profile%20views&color=0e75b6&style=flat" alt="keyboardban" /> </p>
 
 ---
 
