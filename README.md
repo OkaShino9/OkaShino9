@@ -5,7 +5,19 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;At+Chulalongkorn+University&center=true&width=500&height=45&color=00b441&speed=100">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OkaShino9&label=Profile%20views&color=0e75b6&style=flat" alt="keyboardban" /> </p>
+<p align="center">
+  <a href="mailto:kungkao123456789@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/kaoalwayswantstosleep">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/chananchai-chanmol-9623592a8">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=OkaShino9&label=Profile%20views&color=0e75b6&style=flat" alt="OkaShino9" /> </p>
 
 ---
 
@@ -44,22 +56,6 @@
 
 ---
 
-## 📫 Contact
-
 <p align="center">
-  <a href="mailto:kungkao123456789@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/kaoalwayswantstosleep">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/chananchai-chanmol-9623592a8">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-⭐ If you like my work, feel free to follow or collaborate!
+⭐ feel free to contract or collaborate!
 </p>
