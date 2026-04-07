@@ -1,4 +1,6 @@
-<h1 align="center"> Hi 👋🏻, I'm Kao (Chananchai Chanmol) </h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E6007E&height=200&section=header&text=Kao%20(Chananchai%20Chanmol)&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=55&descAlign=50"/>
+</p>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;At+Chulalongkorn+University&center=true&width=500&height=45&color=DE5C8E&speed=100">
 </p>
