@@ -23,9 +23,11 @@
 
 ## 🚀 About Me
 <p align="center">
-🎓 First-year Computer Science @ Chulalongkorn University <br>
-💡 Passionate about AI/ML,Business Innovation and Quant <br>
+<em>
+🎓  First-year Computer Science @ Chulalongkorn University <br>
+💡  Passionate about AI/ML, Business Innovation and Quant <br>
   I want to use technology to create innovations that can help and improve the quality of life of fellow humans.
+</em>
 </p>
 
 ---
@@ -57,5 +59,7 @@
 ---
 
 <p align="center">
+<em>
 ⭐ feel free to contract or collaborate!
+</em>
 </p>
