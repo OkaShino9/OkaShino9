@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=03BFB5&height=200&section=header&text=Hi%20%👋,%20I'm%20Kao%20(Chananchai%20Chanmol)&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
 </p>
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;At+Chulalongkorn+University&center=true&width=500&height=45&color=03BFB5&speed=100">
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;At+Chulalongkorn+University&center=true&width=500&height=45&color=03BFB5&speed=200">
 </p>
 
 <p align="center">
